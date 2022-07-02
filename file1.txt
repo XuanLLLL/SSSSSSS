@@ -1,4 +1,0 @@
-This is file1.
-test
-add a line.
-"i" is very useful!
